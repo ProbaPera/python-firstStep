@@ -1,0 +1,7 @@
+
+name1= input()
+x= input()
+y= input()
+z= input()
+
+print(x, y, z, sep=name1)
