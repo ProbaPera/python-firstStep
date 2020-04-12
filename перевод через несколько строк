@@ -1,0 +1,2 @@
+print('a', 'b', 'c', sep='2', end='\n\n\n\n')
+print('a', 'b', 'c', sep='2', end='1')
